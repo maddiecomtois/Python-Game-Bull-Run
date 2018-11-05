@@ -1,2 +1,3 @@
 # Python-Game-Bull-Run
-Game created with Python and Pygame
+Using Pygame to create game where the player must run through the streets of Spain and make it to 
+the bull ring before being attacked by a bull chasing from behind
